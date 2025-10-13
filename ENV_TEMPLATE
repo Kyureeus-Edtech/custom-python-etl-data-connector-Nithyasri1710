@@ -1,0 +1,7 @@
+# ENV_TEMPLATE - DO NOT INCLUDE REAL KEYS
+MONGODB_URI=mongodb://username:password@host:27017/dbname
+MONGODB_DB=your_database_name
+ABUSECH_FEED_URL=https://feodotracker.abuse.ch/downloads/ipblocklist.csv
+REQUEST_TIMEOUT=15
+MAX_RETRIES=3
+RETRY_BACKOFF=5
